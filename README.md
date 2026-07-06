@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
