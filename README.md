@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0402-remove-k-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0739-daily-temperatures) |
 ## Linked List
