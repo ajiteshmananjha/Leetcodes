@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
