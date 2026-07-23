@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
