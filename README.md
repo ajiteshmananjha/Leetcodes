@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
