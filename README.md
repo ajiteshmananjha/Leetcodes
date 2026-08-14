@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1288-remove-covered-intervals) |
