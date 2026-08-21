@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
