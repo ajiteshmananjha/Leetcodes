@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -225,10 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 ## Game Theory
 |  |
