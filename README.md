@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [3620-network-recovery-pathways](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3620-network-recovery-pathways) |
