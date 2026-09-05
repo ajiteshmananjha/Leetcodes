@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1768-merge-strings-alternately) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
