@@ -1,40 +1,29 @@
-from collections import deque
-
-class Solution(object):
-    def averageOfSubtree(self, root):
-        """
-        :type root: TreeNode
-        :rtype: int
-        """
-
-        def bfs(node):
-            if node is None:
-                return -1
-            count, summa = 0, 0
-            q1 = deque([node])
-            while q1:
-                n = q1.popleft()
-                summa += n.val
-                count += 1
-
-                if n.right:
-                    q1.append(n.right)
-                if n.left:
-                    q1.append(n.left)
-
-            return summa // count
-
-        que = deque([root])
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def averageOfSubtree(self, root: TreeNode) -> int:
         ans = 0
+        def dfs(node):
+            nonlocal ans
+            if node is None:
+                return [0,0]
+                
+            right = dfs(node.right)
+            left = dfs(node.left)
 
-        while que:
-            e = que.popleft()
-            avg = bfs(e)
-            if avg == e.val:
-                ans += 1
-            if e.right:
-                que.append(e.right)
-            if e.left:
-                que.append(e.left)
+            suma = right[0] + left[0] + node.val
+            count = right[1] + left[1] + 1
 
+            if suma//count == node.val:
+                ans+=1
+            return [suma,count]
+
+
+        dfs(root)
         return ans
+        
+        
