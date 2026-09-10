@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
@@ -270,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
 | ------- |
