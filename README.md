@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0684-redundant-connection) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -274,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajiteshmananjha/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
