@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0496-next-greater-element-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1768-merge-strings-alternately) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1927-sum-game) |
