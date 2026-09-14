@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1927-sum-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
