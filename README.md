@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0836-rectangle-overlap) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0402-remove-k-digits) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
