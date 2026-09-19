@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1927-sum-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ajiteshmananjha/Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ajiteshmananjha/Leetcodes/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ajiteshmananjha/Leetcodes/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
 | ------- |
